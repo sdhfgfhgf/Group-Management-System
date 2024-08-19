@@ -441,7 +441,6 @@ void Functions::Modify_mem()
 				cout << "The member info has been successfully modified" << endl;
 				//update the info to the file
 				this->save();
-				system("pause");
 			}
 			else
 			{
